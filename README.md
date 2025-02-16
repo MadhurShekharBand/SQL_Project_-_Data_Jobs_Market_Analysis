@@ -1,8 +1,9 @@
 # Introduction:
 Focusing on data analyst roles, this project explores top-paying jobs, in-demand skills, and where does high demand meets high salary in data analytics sector.
 
-# SQL Queries:
-All SQL queries are available here: 
+- **SQL Queries:** All SQL queries are available here:
+- **Outputs of All SQL Queries:** Outputs of all SQL queries from Microsoft SQL Server are available here in Microsoft Excel Comma Separated Values (.csv) File format:
+- **Visualizations of the SQL Queries:** A Microsoft Power Bi file containing visualizations of all SQL queries is available here:
 
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others' work to find optimal jobs.
@@ -20,7 +21,7 @@ It's a real-world data science job postings data from 2023 packed with insights 
 
 ### Tools I Used:
 - **Microsoft SQL Server:** The chosen database management system, ideal for handling the job posting data and executing SQL queries.
-- **Microsoft Power BI:** The chosen BI tool used to visualize my SQL query results.
+- **Microsoft Power BI:** The chosen BI tool used to visualize my SQL query outputs.
 
 # The Analysis:
 ### 1. Top Paying Data Analyst Jobs
