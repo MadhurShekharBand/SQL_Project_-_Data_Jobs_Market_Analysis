@@ -1,9 +1,10 @@
 # Introduction:
 Focusing on data analyst roles, this project explores top-paying jobs, in-demand skills, and where does high demand meets high salary in data analytics sector.
 
+# Project Files:
 - **SQL Queries:** All SQL queries are available here:
-- **Outputs of All SQL Queries:** Outputs of all SQL queries from Microsoft SQL Server are available here in Microsoft Excel Comma Separated Values (.csv) File format:
-- **Visualizations of the SQL Queries:** A Microsoft Power Bi file containing visualizations of all SQL queries is available here:
+- **Outputs of All SQL Queries:** Outputs of all SQL queries from Microsoft SQL Server are available here in Microsoft Excel Comma Separated Values File (.csv) format:
+- **Visualizations of the SQL Queries:** A Microsoft Power BI file containing visualizations of all SQL queries is available here:
 
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others' work to find optimal jobs.
