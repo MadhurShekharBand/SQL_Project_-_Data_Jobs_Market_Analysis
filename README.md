@@ -7,7 +7,7 @@ Focusing on data analyst roles, this project explores top-paying jobs, in-demand
 - **Outputs of All SQL Queries:** Outputs of all SQL queries from Microsoft SQL Server are available here in Microsoft Excel Comma Separated Values File (.csv) format: [Outputs of All SQL Queries](https://github.com/MadhurShekharBand/SQL_Project_-_Data_Jobs_Market_Analysis/tree/de96ab3fb9dc17445a7359bc0ba266ee7c3b981a/SQL%20Queries%20Outcomes)
 - **Visualizations of the SQL Queries:** A Microsoft Power BI file containing visualizations of all SQL queries is available here: [Visualizations of the SQL Queries](https://github.com/MadhurShekharBand/SQL_Project_-_Data_Jobs_Market_Analysis/tree/de96ab3fb9dc17445a7359bc0ba266ee7c3b981a/SQL%20Queries%20Visualizations)
 
-# Background
+# Background:
 
 ### The questions I wanted to answer through my SQL queries were:
 1. What are the top-paying data analyst jobs?
